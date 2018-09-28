@@ -33,7 +33,7 @@ func help() {
 
 func main() {
 	flag.Parse()
-	if len(filename) == 0 || len(dirpath) == 0 {
+	if len(filename) == 0 {
 		log.Fatalln("invalid path")
 	}
 
