@@ -1,2 +1,1 @@
-# file-transfer
-go, qrcode, transfer
+# File Transfer
